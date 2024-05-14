@@ -1,4 +1,4 @@
-# stayVista-part1
+# stayVista-Resource
 
 ## Live Link: [StayVista](https://stayvista-b2d98.web.app/)
 
